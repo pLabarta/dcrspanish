@@ -1,1 +1,1 @@
-# dcrspanish
+# Decred En Español
