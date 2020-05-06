@@ -19,3 +19,10 @@
 - [PREGUNTAS - QUE ES DECRED ?? (PARTE 1)](https://youtu.be/WOMbJQMOcWA) `17`
 - [ENTREVISTA CON PABLO Y NACHO DE BUENOS AIRES ARGENTINA, NOS PLATICAN SOBRE EL COMIC DE DECRED](https://youtu.be/1dRqwEChj2Y) `10`
 - [DECRED JOURNAL EN ESPAÑOL AGOSTO 2019](https://youtu.be/3YI5URKkgIw) `10`
+
+`Jul 2019`
+- [Casos de éxito: Nuevas ideas de Negocios | Bitcoinday_UY Montevideo](https://www.youtube.com/watch?v=uXaiBtZzRDY) `16`
+- [BBOD Talk: Entrevista a Elian Huesca. de la criptomoneda Decred](https://www.youtube.com/watch?v=8gE4-S0kdLo) `26`
+
+`May`
+- [Entrevista con Elian Huesca de Decred | CryptoCrew](https://www.youtube.com/watch?v=NbqC3XoOz98) `16`
