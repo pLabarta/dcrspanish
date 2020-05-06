@@ -7,10 +7,10 @@
 
 `Marzo 2020`
 
-- [Decred: Seguro. Adaptable. Sustentable. - Traducción](https://youtu.be/4zuFqs5QVkE) `19`
-- [Decred: Sustentable. - Traducción](https://youtu.be/i43J2dC351I) `19`
-- [Decred: Seguro. - Traducción](https://youtu.be/cXmj4N5slbw) `19`
-- [Decred: Adaptable. - Traducción](https://youtu.be/uX9fZVGdK5I) `19`
+- [Decred: Seguro. Adaptable. Sustentable. - Translated](https://youtu.be/4zuFqs5QVkE) `19`
+- [Decred: Sustentable. - Translated](https://youtu.be/i43J2dC351I) `19`
+- [Decred: Seguro. - Translated](https://youtu.be/cXmj4N5slbw) `19`
+- [Decred: Adaptable. - Translated](https://youtu.be/uX9fZVGdK5I) `19`
 - [MeetUpGlobalDecred - Buenos Aires 2020](https://youtu.be/3cEQefoyQS0) `10`
 
 `Octubre 2019`
