@@ -1,3 +1,27 @@
+# Virtual Events:
+
+`May 2020`
+
+- **Decred at Blockconf Digital, May 25-26** ([link](https://twitter.com/BlockconfD/status/1250771756517920771), photos: [1](https://twitter.com/BlockconfD/status/1251194332079697922), [2](https://twitter.com/BlockconfD/status/1251316437450469376))
+
+`Apr 2020`
+
+- **Paxful Conversations: Crypto Scams powered by Decred, April 4** ([link](https://twitter.com/paxful_LATAM/status/1245066931155148800)) 
+- **Panel on Cryptocurrencies and Remote Working at Talent Land Home, April 15** ([link](https://twitter.com/Decred_ES/status/1250568376851841030), photos: [1](https://twitter.com/blockchain_land/status/1250936111490269184), [2](https://twitter.com/blockchain_land/status/1248359361069699072), [3](https://twitter.com/blockchain_land/status/1250470211888787459), [4](https://twitter.com/blockchain_land/status/1250538840768434176))
+- **3th Decred in Spanish Virtual Meetup, April 9** ([link](https://twitter.com/Decred_ES/status/1245526903110414336))
+- **Let’s talk cryptocurrencies powered by Decred, April 16** ([link](https://twitter.com/Decred_ES/status/1245452957417684992)) 
+- **4th Decred in Spanish Virtual Meetup, April 23** ([link](https://twitter.com/Decred_ES/status/1253045934214217728)) 
+- **Jueves Crypto Drinks Decred and Blockchain Land, April 23** ([link](https://twitter.com/Decred_ES/status/1253427311707213824)) 
+- **Binance Spanish Panel on Cryptosecurity, April 28** ([photo](https://twitter.com/elianhuesca/status/1255293877373800448 ))
+
+`Mar 2020`
+
+- **1st Decred in Spanish Virtual Meetup, March 12** ([link](https://twitter.com/Decred_ES/status/1238242352306614273))
+- **Virtual Meetup on CEXs and DEXs, March 18** ([link](https://twitter.com/elianhuesca/status/1240442413732319235)) 
+- **Virtual Decred Meetup Chile, March 24** ([link](https://twitter.com/BlockAcademyCL/status/1240279522869686273))
+- **2nd Decred In Spanish Virtual Meetup, March 27** ([link](https://twitter.com/Decred_ES/status/1243214184793485314)) 
+- **Binance Ask Me Anything on Binance Spanish Telegram, March 29** ([link](https://twitter.com/Decred_ES/status/1243953116963315712)) 
+
 # Events
 
 `Apr 2020`
@@ -21,7 +45,8 @@
 - **Decred Global Meetup, Mexico City, Mexico, February 6** (links: [1](https://twitter.com/cryptorocketok/status/1224422477507547136), [2](https://twitter.com/Decred_ES/status/1222163194782851072), [photo](https://twitter.com/LOReBitcoin/status/1225608559699820549))
 - **Decred Global Meetup, Buenos Aires, Argentina, February 6** ([link](https://twitter.com/EspacioBitcoin/status/1225102862595842048), photos: [1](https://twitter.com/Decred_ES/status/1225571706590433281), [2](https://twitter.com/plabarta_/status/1225595614324498433)) 
 - **Decred & Stamping.io Meetup Lima, Peru, February 27** ([link](https://twitter.com/victorarubin/status/1230594584574648322), [video](https://twitter.com/Decred_ES/status/1233597901898645507))
-- **Decred Meetup Santa Fe, Argentina, February 27** ([link](https://twitter.com/Decred_ES/status/1225598769783287808), [video](https://twitter.com/cryptorc_tech/status/1235269095194578944), photos: [1](https://twitter.com/Decred_ES/status/1233159907194605572), [2](https://twitter.com/Decred_ES/status/1233230772653449216)) 
+- **Decred Meetup Santa Fe, Argentina, February 27** ([link](https://twitter.com/Decred_ES/status/1225598769783287808), [video](https://twitter.com/cryptorc_tech/status/1235269095194578944), photos: [1](https://twitter.com/Decred_ES/status/1233159907194605572), [2](https://twitter.com/Decred_ES/status/1233230772653449216))
+
 
 `Dec 2019`
 
@@ -36,27 +61,87 @@
 - **Crypto Night at Bull and Bear Trading Academy, Mexico, November 14** ([photo](https://twitter.com/Decred_ES/status/1195158022374514689))
 - **Decred talk Technology Institute of Veracruz, Mexico, Novermber 21** (photos: [1](https://twitter.com/Decred_ES/status/1197228812498432000), [2](https://twitter.com/Decred_ES/status/1198095488366587904)) 
 
+`Oct 2019`
+`Sep 2019`
+`Aug 2019`
+`Jul 2019`
+`Jun 2019`
+`May 2019`
+`Mar 2019`
+`Feb 2019`
+- **Decred in 30 minutos, Mexico City, Mexico, February 27** ([link](https://www.eventbrite.com/e/decred-en-30-minutos-tickets-55764142050) [photos](https://twitter.com/Decred_ES/status/1102594478664232960))
+Bitcoinday, Córdoba, Argentina, April 4 (streaming)
 
-# Virtual Events:
+`Jan 2019`
 
-`May 2020`
 
-- **Decred at Blockconf Digital, May 25-26** ([link](https://twitter.com/BlockconfD/status/1250771756517920771), photos: [1](https://twitter.com/BlockconfD/status/1251194332079697922), [2](https://twitter.com/BlockconfD/status/1251316437450469376))
 
-`Apr 2020`
+Binance LATAM AMA, Online , April 18 (link streaming)
 
-- **Paxful Conversations: Crypto Scams powered by Decred, April 4** ([link](https://twitter.com/paxful_LATAM/status/1245066931155148800)) 
-- **Panel on Cryptocurrencies and Remote Working at Talent Land Home, April 15** ([link](https://twitter.com/Decred_ES/status/1250568376851841030), photos: [1](https://twitter.com/blockchain_land/status/1250936111490269184), [2](https://twitter.com/blockchain_land/status/1248359361069699072), [3](https://twitter.com/blockchain_land/status/1250470211888787459), [4](https://twitter.com/blockchain_land/status/1250538840768434176))
-- **3th Decred in Spanish Virtual Meetup, April 9** ([link](https://twitter.com/Decred_ES/status/1245526903110414336))
-- **Let’s talk cryptocurrencies powered by Decred, April 16** ([link](https://twitter.com/Decred_ES/status/1245452957417684992)) 
-- **4th Decred in Spanish Virtual Meetup, April 23** ([link](https://twitter.com/Decred_ES/status/1253045934214217728)) 
-- **Jueves Crypto Drinks Decred and Blockchain Land, April 23** ([link](https://twitter.com/Decred_ES/status/1253427311707213824)) 
-- **Binance Spanish Panel on Cryptosecurity, April 28** ([photo](https://twitter.com/elianhuesca/status/1255293877373800448 ))
+Talent Land, Guadalajara, México, April 22 - 26 (link photo photo photo photo video video streaming)
 
-`March 2020`
+CriptoLatinFest, Bogota, Colombia, May 18-19 (link report streaming)
 
-- **1st Decred in Spanish Virtual Meetup, March 12** ([link](https://twitter.com/Decred_ES/status/1238242352306614273))
-- **Virtual Meetup on CEXs and DEXs, March 18** ([link](https://twitter.com/elianhuesca/status/1240442413732319235)) 
-- **Virtual Decred Meetup Chile, March 24** ([link](https://twitter.com/BlockAcademyCL/status/1240279522869686273))
-- **2nd Decred In Spanish Virtual Meetup, March 27** ([link](https://twitter.com/Decred_ES/status/1243214184793485314)) 
-- **Binance Ask Me Anything on Binance Spanish Telegram, March 29** ([link](https://twitter.com/Decred_ES/status/1243953116963315712)) 
+La Conexión Medellín, Colombia, May 20-21 (link report streaming)
+
+Bitcoinday, Montevideo, Uruguay, May 24 (link report streaming)
+
+Decred and blockchain industrial use cases, La paz, Bolivia, June 11 (photos)
+
+Crypto Meetup, La paz, Bolivia, June 13 (link)
+
+Blockchain Summit, Mexico City, Mexico, 4-5 July (link photo photos streaming photos logo)
+
+Ambassador's Dinner sponsored by Decred, Mexico City, Mexico, July 5 (photos video)
+
+Decred Meetup, Buenos Aires, Argentina, July 19 (photos)
+
+Disrupción Blockchain, Mexico city, Mexico, July 25-26 (link photos)
+
+Blockchain Meetup BitcoinBullrun2019, Mexico city, Mexico, July 27 (photo photos)
+
+TheOpenBanking Pre-summit meetup, Mexico City, Mexico, August 2 (photo)
+
+Blockchain Bajio Meetup, Leon, Mexico, August 8 (link photo photo photo streaming)
+
+Crypto Mondays, Buenos Aires, Argentina, August 12 (link photos video)
+
+Bitcoin Embassy, Mexico City, Mexico, August 20 (photos)
+
+Binance Meetup Monterrey, Mexico, August 22 (link photos streaming)
+
+Binance Meetup Mexico City, Mexico, August 29 (link photo photo straming)
+
+Blockchain Summit, Montevideo, Uruguay, September 5 (report)
+
+Economía Digital, La Paz, Bolivia, September 5 (report streaming)
+
+Tech4Amazonia, La Paz, Bolivia, September 7 (photos)
+
+Decred Meetup, Morelia, Mexico, September 12 (link photos streaming)
+
+Decred, Bitcoin and blockchain workshop, Oaxaca, Mexico, September 18 (link photos)
+
+FrenchVibes Connection, Mexico City, Mexico, September 21 (Instagram video video)
+
+La Conexión Buenos Aires, Argentina, September 24- 25 (link report streaming)
+
+Argentina Latin Fest Cordoba, Argentina, September 27-29 (report photos streaming)
+
+Blockchain for government and enterprises, Monterrey, Mexico, September 27 (photos)
+
+Blockchain and Decred, Morelia, Mexico, October 17 (link streaming photos)
+
+Talent Night, Morelia, Mexico, October 17 (link photos)
+
+Bullish Night, Mexico City, Mexico, October 24 (link photos)
+
+Decred presentation Technology University of Puebla, Mexico, October 25 (photos)
+
+Cryptocurrency workshop, Morelia, Mexico, 24 October (link)
+
+Decred Meetup, Bogota, Colombia, October 29. (link streaming photos)
+
+Decred MeetUp, Medellin, Colombia, November 6 (link photos)
+
+Panel Blockchain, Medellin, Colombia, November 7 (link photos)
