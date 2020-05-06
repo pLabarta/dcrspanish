@@ -55,15 +55,40 @@
 - **Bitcoin Embassy Bar anniversary, Mexico, December 19** ([video](https://twitter.com/addcade/status/1225608461947461633), photos: [1](https://twitter.com/Decred_ES/status/1207380289107959809), [2](https://twitter.com/josepimpo/status/1207721751469285376), [3](https://twitter.com/victorarubin/status/1225607934169751554), [4](https://twitter.com/accour/status/1225606991667695621), [5](https://twitter.com/blockchain_land/status/1225599854610702337), [6](https://twitter.com/raulmunozb_/status/1225787909543841792), [7](https://twitter.com/Decred_ES/status/1208204612215418887))
 
 `Nov 2019`
-
+- **Decred MeetUp, Medellin, Colombia, November 6** ([link](https://connect.eventtia.com/es/dmz/decred-y-como-sera-el-dinero-del-futuro/website), [photos](https://twitter.com/victorarubin/status/1192262347118858241))
+- **Panel Blockchain, Medellin, Colombia, November 7** ([link](https://live.eventtia.com/es/eafit), [photos](https://twitter.com/legal_medellin/status/1192583807666442245))
 - **Decred talk Talent Nights at Technology Polytechnic Institute, Mexico, November 8** ([photos](https://twitter.com/Decred_ES/status/1192837523766161408))
 - **Open Banking, Fintech and Blockchain Summit, Mexico, November 14-15** ([link](https://theopenbankingsummit.com/), photos: [1](https://twitter.com/nachoflores/status/1195459765637394436), [2](https://twitter.com/Decred_ES/status/1195439354702753792), [3](https://twitter.com/elianhuesca/status/1195470065900163077))						
 - **Crypto Night at Bull and Bear Trading Academy, Mexico, November 14** ([photo](https://twitter.com/Decred_ES/status/1195158022374514689))
 - **Decred talk Technology Institute of Veracruz, Mexico, Novermber 21** (photos: [1](https://twitter.com/Decred_ES/status/1197228812498432000), [2](https://twitter.com/Decred_ES/status/1198095488366587904)) 
 
 `Oct 2019`
+- **Blockchain and Decred, Morelia, Mexico, October 17** ([link](https://twitter.com/Decred_ES/status/1179884535313506305), [streaming](https://twitter.com/Decred_ES/status/1184914742298714113), [photos](https://twitter.com/Decred_ES/status/1185031011677196288))
+- **Talent Night, Morelia, Mexico, October 17** ([link](https://nights.talent-network.org/evento/talent-night-michoacan-marzo-2019/), [photos](https://twitter.com/Decred_ES/status/1185235699043307523))
+- **Bullish Night, Mexico City, Mexico, October 24** ([link](https://twitter.com/blockchain_land/status/1185656744174858243), [photos](https://twitter.com/Decred_ES/status/1187534463569289216))
+- **Decred presentation Technology University of Puebla, Mexico, October 25** ([photos](https://twitter.com/Decred_ES/status/1192837523766161408))
+- **Cryptocurrency workshop, Morelia, Mexico, 24 October** ([link](https://twitter.com/Decred_ES/status/1187206051000655872))
+- **Decred Meetup, Bogota, Colombia, October 29.** ([link](https://twitter.com/Decred_ES/status/1188496680133500934), [streaming](https://twitter.com/Decred_ES/status/1189321789559771138), [photos](https://twitter.com/victorarubin/status/1189562994474266624))
+
 `Sep 2019`
+- **Blockchain Summit, Montevideo, Uruguay, September 5** ([report](https://github.com/decredcommunity/events/blob/master/reports/20190905-blockchainsummituy-montevideo-uruguay.md))
+- **Economía Digital, La Paz, Bolivia, September 5** ([report](https://twitter.com/elianhuesca/status/1170055934284111872), [streaming](https://twitter.com/Decred_ES/status/1169736706049884162))
+- **Tech4Amazonia, La Paz, Bolivia, September 7** ([photos](https://twitter.com/elianhuesca/status/1171034359027195904))
+- **Decred Meetup, Morelia, Mexico, September 12** ([link](https://twitter.com/Decred_ES/status/1171471998989389824), [photos](https://twitter.com/Decred_ES/status/1173033173195939841), [streaming](https://twitter.com/Decred_ES/status/1172294228585508864))
+- **Decred, Bitcoin and blockchain workshop, Oaxaca, Mexico, September 18** ([link](https://www.facebook.com/events/959839374354073/), [photos](https://twitter.com/Decred_ES/status/1174803011610259456))
+- **FrenchVibes Connection, Mexico City, Mexico, September 21** ([Instagram](https://www.instagram.com/p/B268Uougtbo/), videos: [1](https://twitter.com/elianhuesca/status/1175610899006197761), [2](https://twitter.com/elianhuesca/status/1175609208705863681))
+- **La Conexión Buenos Aires, Argentina, September 24- 25** ([link](https://twitter.com/Decred_ES/status/1128340018362310659), [report](https://github.com/decredcommunity/events/blob/master/reports/20190520-laconexion-medellin-colombia.md), [streaming](https://twitter.com/Decred_ES/status/1130573302370623490))
+- **Argentina Latin Fest Cordoba, Argentina, September 27-29** ([report](https://matrix.to/#/!aNPTuiryMFmdMQWUzb:decred.org/$15704543735491DFGIA:decred.org), [photos](https://twitter.com/victorarubin/status/1177976167145586693), [streaming](https://twitter.com/Decred_ES/status/1178024538023628801))
+- **Blockchain for government and enterprises, Monterrey, Mexico, September 27** ([photos](https://twitter.com/Decred_ES/status/1178690139008229376))
+
 `Aug 2019`
+- **TheOpenBanking Pre-summit meetup, Mexico City, Mexico, August 2** ([photo](https://twitter.com/elianhuesca/status/1157313830969630725))
+- **Blockchain Bajio Meetup, Leon, Mexico, August 8** ([link](https://twitter.com/Decred_ES/status/1156213567294595072),photos: [1](https://twitter.com/Decred_ES/status/1159621068027551744), [2](https://twitter.com/victorarubin/status/1159898002858893313), [3](https://twitter.com/Decred_ES/status/1160322691074678784), [streaming](https://twitter.com/Decred_ES/status/1159640598204338176))
+- **Crypto Mondays, Buenos Aires, Argentina, August 12** ([link](https://www.meetup.com/es/Bitcoin-Argentina/events/263594472), [photos](https://twitter.com/Decred_ES/status/1161428398419238913), [video](https://twitter.com/Decred_ES/status/1160695484899401728))
+- **Bitcoin Embassy, Mexico City, Mexico, August 20** ([photos](https://twitter.com/bitcoinemb/status/1164269677381652480))
+- **Binance Meetup Monterrey, Mexico, August 22** ([link](https://twitter.com/Decred_ES/status/1164185076298633218), [photos](https://twitter.com/Decred_ES/status/1165434293809635328), [streaming](https://twitter.com/Decred_ES/status/1164684504415518721))
+- **Binance Meetup Mexico City, Mexico, August 29** ([link](https://twitter.com/Decred_ES/status/1166063890154655744), photos: [1](https://twitter.com/interprocsys/status/1167243076726861824), [2](https://twitter.com/BlockchainBajio/status/1167223994019434499), [streaming](https://twitter.com/Decred_ES/status/1167233913871376396))
+
 `Jul 2019`
 - **Blockchain Summit, Mexico City, Mexico, 4-5 July** ([link](https://twitter.com/BlockSummitLA/status/1137828122563399681), photos: [1](https://twitter.com/AnaDaliacd23/status/1146873685229416450), [2](https://twitter.com/Decred_ES/status/1148704305383297024), [3](https://twitter.com/victorarubin/status/1147234677452869635), [streaming](https://www.facebook.com/BlockchainSummitLatam/videos/1148609158657494/), [logo](https://twitter.com/victorarubin/status/1146916119233609728))
 - **Ambassador's Dinner sponsored by Decred, Mexico City, Mexico, July 5** ([photos](https://twitter.com/Decred_ES/status/1147869636957999105), [video](https://twitter.com/victorarubin/status/1147550425186484224))
@@ -85,65 +110,7 @@
 - **Binance LATAM AMA, Online , April 18** ([link](https://twitter.com/binance/status/1118883131799400449), [streaming](https://twitter.com/Decred_ES/status/1119049035858497536))
 - **Talent Land, Guadalajara, México, April 22 - 26** ([link](https://twitter.com/Decred_ES/status/1118692528449105927), photos: [1](https://twitter.com/elianhuesca/status/1121243105276125184), [2](https://twitter.com/victorarubin/status/1121169425011494913), [3](https://twitter.com/plasmiux/status/1120495109815009281), [4](https://twitter.com/Decred_ES/status/1121239891256446977), videos: [1](https://twitter.com/Decred_ES/status/1119759717516087296), [2](https://twitter.com/elianhuesca/status/1120806040843505664), [streaming](https://twitter.com/Decred_ES/status/1121535633745502208))
 
-`Mar 2019`
 `Feb 2019`
 - **Decred in 30 minutos, Mexico City, Mexico, February 27** ([link](https://www.eventbrite.com/e/decred-en-30-minutos-tickets-55764142050), [photos](https://twitter.com/Decred_ES/status/1102594478664232960))
 
-`Jan 2019`
 
-
-
-
-
-
-
-
-
-
-
-
-TheOpenBanking Pre-summit meetup, Mexico City, Mexico, August 2 (photo)
-
-Blockchain Bajio Meetup, Leon, Mexico, August 8 (link photo photo photo streaming)
-
-Crypto Mondays, Buenos Aires, Argentina, August 12 (link photos video)
-
-Bitcoin Embassy, Mexico City, Mexico, August 20 (photos)
-
-Binance Meetup Monterrey, Mexico, August 22 (link photos streaming)
-
-Binance Meetup Mexico City, Mexico, August 29 (link photo photo straming)
-
-Blockchain Summit, Montevideo, Uruguay, September 5 (report)
-
-Economía Digital, La Paz, Bolivia, September 5 (report streaming)
-
-Tech4Amazonia, La Paz, Bolivia, September 7 (photos)
-
-Decred Meetup, Morelia, Mexico, September 12 (link photos streaming)
-
-Decred, Bitcoin and blockchain workshop, Oaxaca, Mexico, September 18 (link photos)
-
-FrenchVibes Connection, Mexico City, Mexico, September 21 (Instagram video video)
-
-La Conexión Buenos Aires, Argentina, September 24- 25 (link report streaming)
-
-Argentina Latin Fest Cordoba, Argentina, September 27-29 (report photos streaming)
-
-Blockchain for government and enterprises, Monterrey, Mexico, September 27 (photos)
-
-Blockchain and Decred, Morelia, Mexico, October 17 (link streaming photos)
-
-Talent Night, Morelia, Mexico, October 17 (link photos)
-
-Bullish Night, Mexico City, Mexico, October 24 (link photos)
-
-Decred presentation Technology University of Puebla, Mexico, October 25 (photos)
-
-Cryptocurrency workshop, Morelia, Mexico, 24 October (link)
-
-Decred Meetup, Bogota, Colombia, October 29. (link streaming photos)
-
-Decred MeetUp, Medellin, Colombia, November 6 (link photos)
-
-Panel Blockchain, Medellin, Colombia, November 7 (link photos)
