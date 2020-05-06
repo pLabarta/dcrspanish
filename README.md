@@ -13,8 +13,8 @@ Find articles, DJ translations, events, videos ...
 ├── assets
 │   └── img assets
 ├── decred-journal-spanish
-│   └── DJ translations
-├── events.md
-├── videos.md
+│   └── DJ translations (list)
+├── events.md (list)
+├── videos.md (list)
 
 ```
