@@ -56,7 +56,7 @@
 - [DiarioBitcoin: Coinbase considera agregar ocho nuevas monedas digitales a su listado comercial](https://www.diariobitcoin.com/coinbase-considera-agregar-ocho-nuevas-monedas-digitales-a-su-listado-comercial/) `05`
 
 `Jul 2019`
-- [Libra: ¿Amigo o enemigo? (traducción)](https://medium.com/decred-es/libra-amigo-o-enemigo-bc9933b7c517) `23`
+- [Libra: ¿Amigo o enemigo? - Translated](https://medium.com/decred-es/libra-amigo-o-enemigo-bc9933b7c517) `23`
 - [Primas monetarias, ¿Los altcoins pueden competir con Bitcoin?](https://medium.com/decred-es/primas-monetarias-los-altcoins-pueden-competir-con-bitcoin-1debfcba1ae7) `15`
 - [Morocotacoin: Criptomoneda Decred: un ejemplo de descentralización y autogobernanza](https://www.morocotacoin.com/2019/07/criptomoneda-decred) `02`
 
