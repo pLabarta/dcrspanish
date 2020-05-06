@@ -51,6 +51,7 @@
 
 `Aug 2019`
 - [Criptonoticias: Proyecto Decred añade privacidad a su criptomoneda DCR](https://www.criptonoticias.com/tecnologia/decred-anade-privacidad-criptomoneda-dcr/) `29`
+- [https://steemit.com/btc/@cryptohispano01/decred-q-and-a](https://steemit.com/btc/@cryptohispano01/decred-q-and-a) `09`
 - [Morocotacoin: Coinbase estudia enlistar a ocho nuevas criptomonedas y tres de ellas se dispararon con el anuncio](https://www.morocotacoin.com/2019/08/coibase-criptomonedas/) `08`
 - [DiarioBitcoin: Coinbase considera agregar ocho nuevas monedas digitales a su listado comercial](https://www.diariobitcoin.com/coinbase-considera-agregar-ocho-nuevas-monedas-digitales-a-su-listado-comercial/) `05`
 
@@ -63,17 +64,19 @@
 - [Criptonoticias: Dificultad de minería de Decred, Zcash, Dash y Litecoin en máximos históricos](https://www.criptonoticias.com/mineria-bitcoin-criptomonedas/dificultad-mineria-decred-zcash-dash-litecoin-maximos/) `05`
 
 `May 2019`
+- [Decred: Presente en el Cripto Latin Fest](https://criptotendencia.com/2019/05/18/decred-presente-en-el-cripto-latin-fest/) `18`
 - [CryptoNewsFlash: ¿Qué es Decred? – Una guía para principiantes sobre el token DCR](https://www.crypto-news-flash.com/es/que-es-decred-una-guia-para-principiantes-sobre-el-token-dcr/) `15`
 - [Criptonoticias: Comunidad de Decred vota por enmiendas conceptuales a su constitución](https://www.criptonoticias.com/comunidad/comunidad-decred-enmiendas-conceptuales-constitucion/) `01`
 
 `Apr 2019`
 - [Criptonoticias: Decred inicia pruebas de su implementación de Lightning Network](https://www.criptonoticias.com/tecnologia/decred-inicia-pruebas-implementacion-lightning-network/) `29`
 - [Critonoticias: Comunidad de Decred evalúa propuesta de semiautomatización de su tesorería](https://www.criptonoticias.com/tecnologia/comunidad-decred-evalua-propuesta-semiautomatizacion-tesoreria/) `19`
+- [Cointelegraph - Consideran que Latinoamérica es una de las regiones más importantes para la expansión de la criptomoneda Decred](https://es.cointelegraph.com/news/they-consider-that-latin-america-is-one-of-the-most-important-regions-for-the-expansion-of-the-decred-cryptocurrency) `9`
 
 `Mar 2019`
 - [Criptonoticias: Comunidad de Decred aprueba propuesta de DEX con intercambios atómicos](https://www.criptonoticias.com/mercados/comunidad-decred-aprueba-propuresta-dex-atomic-swaps/) `13`
 
-`Febr 2019`
+`Feb 2019`
 - [Criptonoticias: Decred, la criptomoneda del pueblo, celebra su tercer aniversario](https://www.criptonoticias.com/comunidad/adopcion/decred-criptomoneda-celebra-tercer-aniversario/) `08`
 - [Criptonoticias: Un mercado descentralizado con atomic swaps: la nueva propuesta de Decred](https://www.criptonoticias.com/tecnologia/mercado-descentralizado-atomic-swaps-nueva-propuesta-decred/) `05`
 
@@ -81,6 +84,9 @@
 `Jan 2019`
 - [Criptonoticias: Decred pagará hasta 25 mil dólares en DCR por encontrar vulnerabilidades en su red](https://www.criptonoticias.com/seguridad-bitcoin/decred-pagara-25-mil-dcr-vulnerabilidades-red/) `22`
 
+`Nov 2018`
+- [¿Cómo ser contratista en Decred? - Translated](https://medium.com/decred-es/c%C3%B3mo-ser-contratista-en-decred-d0f05386f799) `24`
+- [Decred: ¿Dónde comenzó todo? - Translated](https://medium.com/decred-es/decred-d%C3%B3nde-comenz%C3%B3-todo-aaa49fed0091) `25`
 
 
 
