@@ -83,7 +83,7 @@
 
 `Aug 2019`
 - **TheOpenBanking Pre-summit meetup, Mexico City, Mexico, August 2** ([photo](https://twitter.com/elianhuesca/status/1157313830969630725))
-- **Blockchain Bajio Meetup, Leon, Mexico, August 8** ([link](https://twitter.com/Decred_ES/status/1156213567294595072),photos: [1](https://twitter.com/Decred_ES/status/1159621068027551744), [2](https://twitter.com/victorarubin/status/1159898002858893313), [3](https://twitter.com/Decred_ES/status/1160322691074678784), [streaming](https://twitter.com/Decred_ES/status/1159640598204338176))
+- **Blockchain Bajio Meetup, Leon, Mexico, August 8** ([link](https://twitter.com/Decred_ES/status/1156213567294595072), photos: [1](https://twitter.com/Decred_ES/status/1159621068027551744), [2](https://twitter.com/victorarubin/status/1159898002858893313), [3](https://twitter.com/Decred_ES/status/1160322691074678784), [streaming](https://twitter.com/Decred_ES/status/1159640598204338176))
 - **Crypto Mondays, Buenos Aires, Argentina, August 12** ([link](https://www.meetup.com/es/Bitcoin-Argentina/events/263594472), [photos](https://twitter.com/Decred_ES/status/1161428398419238913), [video](https://twitter.com/Decred_ES/status/1160695484899401728))
 - **Bitcoin Embassy, Mexico City, Mexico, August 20** ([photos](https://twitter.com/bitcoinemb/status/1164269677381652480))
 - **Binance Meetup Monterrey, Mexico, August 22** ([link](https://twitter.com/Decred_ES/status/1164185076298633218), [photos](https://twitter.com/Decred_ES/status/1165434293809635328), [streaming](https://twitter.com/Decred_ES/status/1164684504415518721))
