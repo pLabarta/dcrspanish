@@ -1,7 +1,7 @@
 # Articles
 
 `May 2020`
-- [Un Nuevo Tipo de DEX (traducción)](https://medium.com/decred-es/un-nuevo-tipo-de-dex-8d7b5f8681c9) `01`
+- [Un Nuevo Tipo de DEX - Translated)](https://medium.com/decred-es/un-nuevo-tipo-de-dex-8d7b5f8681c9) `01`
 
 `Apr 2020`
 - [Cointelegraph: Decred organiza encuentro virtual sobre exchanges descentralizados para la comunidad de habla hispana](https://es.cointelegraph.com/news/decred-organizes-virtual-meeting-on-decentralized-exchanges-for-the-spanish-speaking-community) `23`
@@ -13,7 +13,7 @@
 - [Mantén tus criptomonedas a salvo](https://medium.com/decred-es/mant%C3%A9n-tus-criptomonedas-a-salvo-9bc0d24c5107) `31`
 - [Motrildital: ESPECIAL COMUNIDAD BLOCKCHAIN EN CUARENTENA 1ª PARTE – EPISODIO 111](https://motrildigital.com/especial-comunidad-blockchain-cuarentena-1a-parte-episodio-111/) `30`
 - [Cointelegraph: Decred - ¿Cómo continúa su desarrollo durante el bear market?](https://es.cointelegraph.com/news/decred-how-does-your-development-continue-during-the-bear-market) `26`
-- [Teoría de los tres pilares en el contrato social del Cypherpunk (traducción)](https://medium.com/decred-es/teor%C3%ADa-de-los-tres-pilares-en-el-contrato-social-del-cypherpunk-40f569836b6a) `24`
+- [Teoría de los tres pilares en el contrato social del Cypherpunk - Translated](https://medium.com/decred-es/teor%C3%ADa-de-los-tres-pilares-en-el-contrato-social-del-cypherpunk-40f569836b6a) `24`
 - [DiarioBitcoin: 4 conferencias virtuales sobre cripto y 2 hackatones para asistir desde casa esta semana](https://www.diariobitcoin.com/4-conferencias-virtuales-sobre-cripto-y-2-hackatones-para-asistir-desde-casa-esta-semana/) `24`
 - [Beincrypto: Instituciones bancarias cierran por coronavirus: ¿Momento de usar criptomonedas?](https://es.beincrypto.com/instituciones-bancarias-cierran-coronavirus-momento-usar-criptomonedas/) `22`
 - [DiarioBitcoin: Evento Jalisco Talent Land 2020 abre espacios para el encuentro y la formación Blockchain](https://www.diariobitcoin.com/evento-jalisco-talent-land-2020-abre-espacios-para-el-encuentro-y-la-formacion-blockchain/) `11`
@@ -27,7 +27,7 @@
 - [Morocotacoin: En abril regresan Blockchain Land y Jalisco Talent Land de México](https://www.morocotacoin.com/2020/02/en-abril-regresan-blockchain-land-y-jalisco-talent-land-de-mexico/) `03`
 
  `Jan 2020`
-- [Guía para probar la red Lightning de Decred -DCR (traducción)](https://medium.com/decred-es/gu%C3%ADa-para-probar-el-lightning-network-de-decred-dcr-344cad6be20e) `22`
+- [Guía para probar la red Lightning de Decred -DCR - Translated](https://medium.com/decred-es/gu%C3%ADa-para-probar-el-lightning-network-de-decred-dcr-344cad6be20e) `22`
 
 `Dec 2019`
 - [Morocotacoin: Decred sigue avanzando en el ecosistema cripto de Latinoamérica](https://www.morocotacoin.com/2019/12/decred-sigue-avanzando-en-el-ecosistema-cripto-de-latinoamerica/) `11`
