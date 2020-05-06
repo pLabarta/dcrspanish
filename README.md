@@ -15,7 +15,7 @@ Find articles, DJ translations, events, videos ...
 ├── decred-journal-spanish
 │   ├── DJ translations
 │   │
-├── events
-├── videos
+├── events.md
+├── videos.md
 
 ```
