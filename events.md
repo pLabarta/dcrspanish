@@ -65,40 +65,42 @@
 `Sep 2019`
 `Aug 2019`
 `Jul 2019`
+- **Blockchain Summit, Mexico City, Mexico, 4-5 July** ([link](https://twitter.com/BlockSummitLA/status/1137828122563399681), photos: [1](https://twitter.com/AnaDaliacd23/status/1146873685229416450), [2](https://twitter.com/Decred_ES/status/1148704305383297024), [3](https://twitter.com/victorarubin/status/1147234677452869635), [streaming](https://www.facebook.com/BlockchainSummitLatam/videos/1148609158657494/), [logo](https://twitter.com/victorarubin/status/1146916119233609728))
+- **Ambassador's Dinner sponsored by Decred, Mexico City, Mexico, July 5** ([photos](https://twitter.com/Decred_ES/status/1147869636957999105), [video](https://twitter.com/victorarubin/status/1147550425186484224))
+- **Decred Meetup, Buenos Aires, Argentina, July 19** ([photos](https://twitter.com/cryptorocketok/status/1152260099072778240))
+- **Disrupción Blockchain, Mexico city, Mexico, July 25-26** ([link](https://twitter.com/Decred_ES/status/1152341236566523904), [photos](https://twitter.com/Decred_ES/status/1154761603033624576))
+- **Blockchain Meetup BitcoinBullrun2019, Mexico city, Mexico, July 27** (photos: [1](https://twitter.com/victorarubin/status/1155252801938829313), [2](https://twitter.com/victorarubin/status/1155277892781260800))
+
 `Jun 2019`
+- **Decred and blockchain industrial use cases, La paz, Bolivia, June 11** ([photos](https://twitter.com/Decred_ES/status/1138899455346954240))
+- **Crypto Meetup, La paz, Bolivia, June 13** ([link](https://twitter.com/Decred_ES/status/1138908828370706432))
+
 `May 2019`
+- **CriptoLatinFest, Bogota, Colombia, May 18-19** ([link](https://twitter.com/Decred_ES/status/1128337171558146050), [report](https://github.com/decredcommunity/events/blob/master/reports/20190518-criptolatinfest-bogota-colombia.md), [streaming](https://twitter.com/Decred_ES/status/1129797339554766848))
+- **La Conexión Medellín, Colombia, May 20-21** ([link](https://twitter.com/Decred_ES/status/1128340018362310659), [report](https://github.com/decredcommunity/events/blob/master/reports/20190520-laconexion-medellin-colombia.md), [streaming](https://twitter.com/Decred_ES/status/1130573302370623490))
+- **Bitcoinday, Montevideo, Uruguay, May 24** ([link](https://twitter.com/Decred_ES/status/1128342052243169282), [report](https://github.com/decredcommunity/events/blob/master/reports/20190524-bitcoinday-montevideo-uruguay.md), [streaming](https://twitter.com/Decred_ES/status/1131946833578795009))
+
+`Apr 2019`
+- **Bitcoinday, Córdoba, Argentina, April 4** ([streaming](https://twitter.com/elianhuesca/status/1113928005812916224))
+- **Binance LATAM AMA, Online , April 18** ([link](https://twitter.com/binance/status/1118883131799400449), [streaming](https://twitter.com/Decred_ES/status/1119049035858497536))
+- **Talent Land, Guadalajara, México, April 22 - 26** ([link](https://twitter.com/Decred_ES/status/1118692528449105927), photos: [1](https://twitter.com/elianhuesca/status/1121243105276125184), [2](https://twitter.com/victorarubin/status/1121169425011494913), [3](https://twitter.com/plasmiux/status/1120495109815009281), [4](https://twitter.com/Decred_ES/status/1121239891256446977), videos: [1](https://twitter.com/Decred_ES/status/1119759717516087296), [2](https://twitter.com/elianhuesca/status/1120806040843505664), [streaming](https://twitter.com/Decred_ES/status/1121535633745502208))
+
 `Mar 2019`
 `Feb 2019`
-- **Decred in 30 minutos, Mexico City, Mexico, February 27** ([link](https://www.eventbrite.com/e/decred-en-30-minutos-tickets-55764142050) [photos](https://twitter.com/Decred_ES/status/1102594478664232960))
-Bitcoinday, Córdoba, Argentina, April 4 (streaming)
+- **Decred in 30 minutos, Mexico City, Mexico, February 27** ([link](https://www.eventbrite.com/e/decred-en-30-minutos-tickets-55764142050), [photos](https://twitter.com/Decred_ES/status/1102594478664232960))
 
 `Jan 2019`
 
 
 
-Binance LATAM AMA, Online , April 18 (link streaming)
 
-Talent Land, Guadalajara, México, April 22 - 26 (link photo photo photo photo video video streaming)
 
-CriptoLatinFest, Bogota, Colombia, May 18-19 (link report streaming)
 
-La Conexión Medellín, Colombia, May 20-21 (link report streaming)
 
-Bitcoinday, Montevideo, Uruguay, May 24 (link report streaming)
 
-Decred and blockchain industrial use cases, La paz, Bolivia, June 11 (photos)
 
-Crypto Meetup, La paz, Bolivia, June 13 (link)
 
-Blockchain Summit, Mexico City, Mexico, 4-5 July (link photo photos streaming photos logo)
 
-Ambassador's Dinner sponsored by Decred, Mexico City, Mexico, July 5 (photos video)
-
-Decred Meetup, Buenos Aires, Argentina, July 19 (photos)
-
-Disrupción Blockchain, Mexico city, Mexico, July 25-26 (link photos)
-
-Blockchain Meetup BitcoinBullrun2019, Mexico city, Mexico, July 27 (photo photos)
 
 TheOpenBanking Pre-summit meetup, Mexico City, Mexico, August 2 (photo)
 
