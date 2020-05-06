@@ -1,5 +1,9 @@
 # Videos
 
+`May 2020`
+
+- [Charla introductoria Bitcoin y Blockchain + Decred](https://www.youtube.com/watch?v=x2QUGV4ezZQ) `06`
+
 `Apr 2020`
 
 - [DECRED: JOURNAL EN ESPAÑOL ENERO 2020](https://youtu.be/kxIo17L2ipY) `8`
