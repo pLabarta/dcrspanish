@@ -11,11 +11,9 @@ Find articles, DJ translations, events, videos ...
 │   └── translations
 │   └── README.md (list)
 ├── assets
-│   ├── img assets
-│   │  
+│   └── img assets
 ├── decred-journal-spanish
-│   ├── DJ translations
-│   │
+│   └── DJ translations
 ├── events.md
 ├── videos.md
 
