@@ -1,7 +1,7 @@
 # Articles
 
 `May 2020`
-- [Un Nuevo Tipo de DEX - Translated)](https://medium.com/decred-es/un-nuevo-tipo-de-dex-8d7b5f8681c9) `01`
+- [Un Nuevo Tipo de DEX - Translated](https://medium.com/decred-es/un-nuevo-tipo-de-dex-8d7b5f8681c9) `01`
 
 `Apr 2020`
 - [Cointelegraph: Decred organiza encuentro virtual sobre exchanges descentralizados para la comunidad de habla hispana](https://es.cointelegraph.com/news/decred-organizes-virtual-meeting-on-decentralized-exchanges-for-the-spanish-speaking-community) `23`
