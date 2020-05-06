@@ -8,7 +8,7 @@ Find articles, DJ translations, events, videos ...
 
 ├── articles
 │   ├── articles
-│   └── translations
+│   ├── translations
 │   └── README.md (list)
 ├── assets
 │   └── img assets
