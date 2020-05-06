@@ -1,6 +1,15 @@
 # Decred En Español
 
-- [Events](./events.md)
-- [Decred Journal (Spanish)](./decred-journal-spanish)
-- [Articles](./articles)
-- [Videos](./videos.md)
+```bash
+├── articles
+│   ├── articles
+│   └── translations
+├── assets
+│   ├── img assets
+|   |   
+├── decred-journal-spanish
+│   ├── DJ translations
+│   |
+├── events
+├── videos
+```
