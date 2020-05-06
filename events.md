@@ -1,8 +1,8 @@
 # Virtual Events:
 
 `May 2020`
-
-- **Decred at Blockconf Digital, May 25-26** ([link](https://twitter.com/BlockconfD/status/1250771756517920771), photos: [1](https://twitter.com/BlockconfD/status/1251194332079697922), [2](https://twitter.com/BlockconfD/status/1251316437450469376))
+- **Decred at Blockconf Digital, May 14** ([link](https://twitter.com/BlockconfD/status/1250771756517920771), photos: [1](https://twitter.com/BlockconfD/status/1251194332079697922), [2](https://twitter.com/BlockconfD/status/1251316437450469376))
+- **Charla introductoria Bitcoin y Blockchain + Decred** ([video](https://www.youtube.com/watch?v=x2QUGV4ezZQ)) `06`
 
 `Apr 2020`
 
@@ -25,7 +25,6 @@
 # Events
 
 `Apr 2020`
-
 - **Decred at Blockchain Land @ Talent Land, Guadalajara, Mexico, April 13-17 (Postponed TBA)**  ([link](https://twitter.com/blockchain_land/status/1232783860804542464)) 
 
 
