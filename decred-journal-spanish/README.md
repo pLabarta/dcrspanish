@@ -8,3 +8,4 @@ Siempre agradecemos sus [comentarios](https://github.com/xaur/decred-news/blob/d
 ### [2020 - Enero](journal/202001.md)
 ### [2020 - Febrero](journal/202002.md)
 ### [2020 - Marzo](journal/202003.md)
+### [2020 - Abril](journal/202004.md)
