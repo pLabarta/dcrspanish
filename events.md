@@ -1,6 +1,7 @@
 # Virtual Events:
 
 `May 2020`
+- [Webinar: How is open source software financed?](https://www.youtube.com/watch?v=UVtOBAAerXk) `16`
 - **Decred at Blockconf Digital, May 14** ([link](https://twitter.com/BlockconfD/status/1250771756517920771), photos: [1](https://twitter.com/BlockconfD/status/1251194332079697922), [2](https://twitter.com/BlockconfD/status/1251316437450469376))
 - **Charla introductoria Bitcoin y Blockchain + Decred** ([video](https://www.youtube.com/watch?v=x2QUGV4ezZQ)) `06`
 
