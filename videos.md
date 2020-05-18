@@ -2,6 +2,7 @@
 
 `May 2020`
 
+- [Decred en Español - Resumen Febrero 2020](https://www.youtube.com/watch?v=4P_Uuiq1CUQ) `12`
 - [Charla introductoria Bitcoin y Blockchain + Decred](https://www.youtube.com/watch?v=x2QUGV4ezZQ) `06`
 
 `Apr 2020`
