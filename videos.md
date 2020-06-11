@@ -1,7 +1,8 @@
 # Videos
 
 `May 2020`
-
+- [Todo sobre Decred Latam Marketing and Events Proposal 2
+](https://www.youtube.com/watch?v=2VNZKWA5Bdg) `20`
 - [Decred en Español - Resumen Febrero 2020](https://www.youtube.com/watch?v=4P_Uuiq1CUQ) `12`
 - [Charla introductoria Bitcoin y Blockchain + Decred](https://www.youtube.com/watch?v=x2QUGV4ezZQ) `06`
 
