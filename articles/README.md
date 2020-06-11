@@ -1,5 +1,8 @@
 # Articles
 
+`Jun 2020`
+- [Analisis de la Blockchain de Decred](https://territorioblockchain.com/analisis-de-la-blockchain-de-decred/) `10`
+
 `May 2020`
 - [AMBCrypto: Decred publica un impulso alcista; Dogecoin, XRP en el lado perdedor](https://es.ambcrypto.com/10k-llamadas-de-ethereum-negociadas-en-un-dia-el-mercado-de-opciones-preve-cambios) `06`
 - [Un Nuevo Tipo de DEX - Translated](https://medium.com/decred-es/un-nuevo-tipo-de-dex-8d7b5f8681c9) `01`
